@@ -1,7 +1,7 @@
 # SOP
 <html>
 <head>
-<title>انگیزه نامه</title>
+انگیزه نامه
 </head>
 
 <body style="background-color:powderblue;">
