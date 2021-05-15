@@ -1,5 +1,4 @@
 # SOP
-# SOP
 <html>
 <head>
 <title>انگیزه نامه</title>
